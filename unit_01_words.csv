@@ -1,0 +1,22 @@
+﻿row_index,topic,bangla,transliteration,english_meaning,example_bangla,example_transliteration,example_english,pos
+0,personal,নাম,naam,name,তোমার নাম কী?,tomar naam ki,What’s your name?,noun
+1,personal,আমি,ami,I / me,আমি মালয়েশিয়া থেকে এসেছি।,ami malaysia theke eshechi,I came from Malaysia.,pronoun
+2,personal,তুমি,tumi,you (informal),তুমি কোথায় থাকো?,tumi kothay thako,Where do you live?,pronoun
+3,personal,আপনি,apni,you (formal),আপনি কেমন আছেন?,apni kemon achhen,How are you?,pronoun
+4,personal,সে,se,he / she,সে এখানে থাকে।,se ekhane thake,He/she lives here.,pronoun
+5,personal,আমরা,amra,we,আমরা বন্ধু।,amra bondhu,We are friends.,pronoun
+6,personal,ফোন নম্বর,phone number,phone number,তোমার ফোন নম্বর কী?,tomar phone number ki,What’s your phone number?,noun
+7,personal,ঠিকানা,thikana,address,তোমার ঠিকানা কোথায়?,tomar thikana kothay,What is your address?,noun
+8,personal,বন্ধু,bondhu,friend,তুমি আমার বন্ধু।,tumi amar bondhu,You are my friend.,noun
+9,personal,দেশ,desh,country,তুমি কোন দেশ থেকে?,tumi kon desh theke,Which country are you from?,noun
+10,personal,কাজ,kaj,job / work,তোমার কাজ কী?,tomar kaj ki,What is your job?,noun
+11,personal,ছাত্র,chatro,student,আমি ছাত্র।,ami chatro,I am a student.,noun
+12,personal,বয়স,boyosh,age,তোমার বয়স কত?,tomar boyosh koto,How old are you?,noun
+13,personal,ভাষা,vasha,language,তুমি বাংলা জানো?,tumi bangla jano,Do you know Bangla?,noun
+14,personal,বুঝি,bujhi,I understand,আমি কিছুটা বুঝি।,ami kichuta bujhi,I understand a little.,verb
+15,navigation,বাম,bam,left,বামে যান।,bame jan,Go left.,direction
+16,navigation,ডান,dan,right,ডানে মোড় নিন।,dane mor nin,Turn right.,direction
+17,navigation,সোজা,soja,straight,সোজা সামনে যান।,soja samne jan,Go straight.,direction
+18,navigation,কোথায়,kothay,where,এটা কোথায়?,eta kothay,Where is this?,question
+19,navigation,কাছাকাছি,kachakachi,nearby,এটা কাছাকাছি?,eta kachakachi,Is it nearby?,adverb
+20,navigation,দূর,dur,far,এটা দূর?,eta dur,Is it far?,adjective
