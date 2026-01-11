@@ -1,0 +1,6 @@
+pandas
+gTTS
+pydub
+moviepy
+Pillow
+openpyxl
